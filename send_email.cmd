@@ -1,0 +1,1 @@
+cscript.exe emailme.vbs
